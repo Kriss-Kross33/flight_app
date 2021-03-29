@@ -6,5 +6,5 @@ Design inspiration: https://dribbble.com/shots/5662956-Flight-Tickets-Deal-Track
 
 
 
-![flight2](https://user-images.githubusercontent.com/44390350/112883776-3c9c6300-90be-11eb-98d1-ba5bdcf68533.gif) width="250" height="450"
+![flight2](https://user-images.githubusercontent.com/44390350/112883776-3c9c6300-90be-11eb-98d1-ba5bdcf68533.gif width="250" height="450") 
 
