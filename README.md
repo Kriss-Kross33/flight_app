@@ -1,16 +1,10 @@
 # flight_app
 
-A new Flutter project.
+A flight app built with flutter.
 
-## Getting Started
+Design inspiration: https://dribbble.com/shots/5662956-Flight-Tickets-Deal-Tracker-App-Day-340-365-Project365
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![flight2](https://user-images.githubusercontent.com/44390350/112883776-3c9c6300-90be-11eb-98d1-ba5bdcf68533.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
